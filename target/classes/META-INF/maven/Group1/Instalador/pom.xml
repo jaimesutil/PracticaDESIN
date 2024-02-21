@@ -12,7 +12,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Intalador</mainClass>
+							<mainClass>Instalador</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
