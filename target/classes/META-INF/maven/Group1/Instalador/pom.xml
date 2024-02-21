@@ -12,7 +12,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.maven.main.MavenMain</mainClass>
+							<mainClass>Intalador</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
